@@ -7,7 +7,7 @@ the end work, simply go to this URL --> https://jedha-streamlit-demo.herokuapp.c
 
 If you want to checkout the code, simply run this command on your terminal:
 
-`git clone https://github.com/antoinekrajnc/streamlit-demo-app.git` 
+`git clone https://github.com/JedhaBootcamp/streamlit-demo-app` 
 
 Then you will be able to see `app.py` where the whole code is commented.
 
