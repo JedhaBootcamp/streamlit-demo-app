@@ -33,7 +33,7 @@ st.markdown("---")
 # Use `st.cache` when loading data is extremly useful
 # because it will cache your data so that your app 
 # won't have to reload it each time you refresh your app
-@st.cache
+@st.cache_data
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
     data["Date"] = data["Date"].apply(lambda x: pd.to_datetime(",".join(x.split(",")[-2:])))
