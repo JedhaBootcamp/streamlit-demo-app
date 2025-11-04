@@ -1,7 +1,7 @@
 # Streamlit Demo app 
 
 Welcome to this streamlit demo app. The goal of this application is to quickly onboard you on `streamlit`'s functionalities. If you want to check out
-the end work, simply go to this URL --> https://jedha-streamlit-demo.herokuapp.com/
+the end work, simply go to this URL 👉 https://antoinekrajnc-streamlit-demo-app.hf.space
 
 ## Checkout code 
 
